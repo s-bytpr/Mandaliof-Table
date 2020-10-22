@@ -5,3 +5,5 @@ After installing this software, You will have Mandaliof Element Table and Inform
 
 نرم افزار جدول مندلیف:
 هنگامی که این نرم افزار را اجرا می کنید صفحه ای به شکل جدول مندلیف ظاهر می شود که با کلیک کردن روی نام هر عنصر می توانید خواص آن عنصر را در پایین صفحه مشاهده کنید
+
+By Somayyeh Bayatpour
